@@ -1,0 +1,8 @@
+{
+  "name": "Vagabond Location & Trip Journal",
+  "description": "A comprehensive travel companion app to save locations from Google Maps, WhatsApp, or Telegram, record voice notes, add photos and notes, create photo collages, manage trip itineraries, track travel expenses with receipts, store secure documents, and perform secure physical backups.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
